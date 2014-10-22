@@ -1,22 +1,2 @@
-
-
-/* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+body{padding-bottom:20px; padding-top:50px} /*Fix padding for navbar-fixed-top*/
+.switch-wrapper{display:inline-block;position:relative;top:3px}
