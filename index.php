@@ -1,3 +1,3 @@
 <?php
-date_default_timezone_set("America/New_York");
+ini_set("include_path", ini_get("include_path".PATH_SEPARATOR.dirname(__FILE__)));
 include("inc/init.php");
